@@ -48,6 +48,7 @@ header{
 .nav li:hover{
     cursor: pointer;
     background-color: rgb(255, 205, 180);
+    translate: 5px 10px;
 }
 
 
@@ -69,7 +70,7 @@ main{
 
 #main-title{
     font-size: 70px;
-    text-shadow: 3px 3px 50px white;
+    text-shadow: 3px 3px 50px black;
     margin-left: 100px;
     width: 700px;
     margin-top: 30px;
@@ -91,7 +92,7 @@ main{
 
 #zobacz-teraz:hover{
     cursor: pointer;
-    scale: 1.2;
+    translate: 5px 10px;
 }
 
 
